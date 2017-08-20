@@ -879,7 +879,7 @@ img.with-border{
 	width:100%; 
 	height:100%; 
 	border-radius:0%; 
-	background-color:#f0394d; 
+	background-color:#E88FB0; 
 	color:#FFF; 
 	text-align:center; 
 	font-family: 'Arvo', serif;
@@ -1081,7 +1081,7 @@ img.with-border{
 }
 
 .pink-dot{
-	color: #f0394d; 
+	color: #E88FB0; 
 }
 
 /* ----------------------------------------------*/
@@ -1482,7 +1482,7 @@ hr.line-divider{
 }*/
 
 .pink-heart{
-	color:#f0394d; 
+	color:#E88FB0; 
 	font-size:18px; 
 	position:relative; 
 	z-index:3
@@ -2572,7 +2572,7 @@ form .has-error .btn-primary{
 /* 12.5 Footer Section				 			 */
 /* ----------------------------------------------*/
 footer .image-divider.fixed-height{
-	height:550px;
+	height:800px;
 }
 
 #thank-you{
