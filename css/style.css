@@ -1224,7 +1224,13 @@ h4.name{
 	background-image:url("../images/background-registry.png");	
 }
 
-.story-background{
+.crew-image{
+	background-image:url("../images/crew4.jpg");	
+}
+.crew-image h1{
+	color: white;	
+}
+.story-image{
 	background-image:url("../images/backgound-story.png");		
 }
 /* 07.1.1 Page Without Slider					 */
@@ -1302,6 +1308,10 @@ h4.name{
 	padding-bottom:50px;
 }
 
+.crew-image .page-title{
+	padding-top:50px;
+	padding-bottom:0px;
+}
 /* 07.2.2 Section Title Wrapper					 */
 /* ----------------------------------------------*/
 .section-title{
