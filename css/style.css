@@ -300,6 +300,12 @@ img.fullwidth{
 	border-radius: 50%;
 }
 
+img.fullwidthstory{
+	width:100%;
+	border-radius: 2%;
+}
+
+
 img.with-border{
 	border:1px solid #6a6a6a;
 }
